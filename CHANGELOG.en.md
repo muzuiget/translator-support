@@ -1,5 +1,9 @@
 # Changelog
 
+### 0.1.8 - 2026-11-10
+
+* Maintenance update.
+
 ### 0.1.7 - 2026-07-22
 
 * Maintenance update.
